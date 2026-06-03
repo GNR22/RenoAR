@@ -219,3 +219,10 @@ The project does not aim to replace professional CAD or architectural software b
 ## 📄 License
 
 This project is developed as an Undergraduate Information Technology Thesis Prototype for academic and research purposes.
+
+## FOR COLLABORATORS
+-Install: Get Unity Hub 6000.3.8f1.
+-Clone: Use GitHub Desktop to clone the repository.
+-Open Unity Hub > Add project from disk > Select the cloned folder.
+-Wait: Let it finish the initial re-import process (this is normal).
+-Sync: Always Pull before you start and Push when you finish.
