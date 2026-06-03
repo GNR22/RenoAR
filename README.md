@@ -48,7 +48,7 @@ This project is an Android-based mobile Augmented Reality (AR) application desig
 ## 🛠️ Technology Stack
 
 ### Frontend / AR Engine
-- Unity 6
+- Unity 6 (6000.3.8f1)
 
 ### Graphics Pipeline
 - Universal Render Pipeline (URP)
